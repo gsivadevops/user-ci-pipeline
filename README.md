@@ -1,6 +1,6 @@
-# Catalogue Service - CI Pipeline
+# User Service - CI Pipeline
 
-This repository contains Jenkins pipeline configurations for the **Catalogue Service** Continuous Integration (CI) process. It automates building, testing, and packaging the microservice to ensure code quality and reliability.
+This repository contains Jenkins pipeline configurations for the **User Service** Continuous Integration (CI) process. It automates building, testing, and packaging the microservice to ensure code quality and reliability.
 
 ## 🚀 Pipeline Stages
 1. **Checkout Code** – Pull source code from GitHub.
